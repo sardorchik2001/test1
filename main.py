@@ -1,0 +1,6 @@
+
+a = "Sardorbek"
+
+print(a)
+
+
